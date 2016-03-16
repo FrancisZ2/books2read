@@ -9,6 +9,6 @@ It will have the book name as separate file name with
 
 ##Getting Started
    
-   1. (49/634)   Coders at Work
-   2. (334/421)  Code The Hidden Language of Computer Hardware and Software
+   1. (49/634)   *Coders at Work
+   2. (334/421)  *Code The Hidden Language of Computer Hardware and Software
    3.		     
